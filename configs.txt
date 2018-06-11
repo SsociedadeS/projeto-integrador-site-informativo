@@ -1,0 +1,12 @@
+projeto de PHP
+
+ cd c:/projeto_integrador
+(celecionar o local)
+
+git init
+(inicializar um repositorio)
+
+git config --global user.name"SsociedadeS"
+git config --global user.email"savio.romariz@gmail.com.br"
+(setar as configs)
+
